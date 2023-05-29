@@ -8,6 +8,5 @@ Installation:
 
 
 Run:
-`
-$node addData
-`
+
+`$node addData`
